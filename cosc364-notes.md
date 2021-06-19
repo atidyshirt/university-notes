@@ -4,8 +4,6 @@ permalink: /cosc364
 date: "2021-05-06"
 ---
 
-\newpage
-
 # Course Information
 
 **Main Topics**

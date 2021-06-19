@@ -4,8 +4,6 @@ permalink: /seng365
 date: "2021-05-06"
 ---
 
-\newpage
-
 # Course Information
 
 This course explores web applications and the underlying distributed application architectures and technologies. Topics will include web fundamentals (HTML, HTTP, CSS, JavaScript), asynchronous events, data persistence, web application architectures, AJAX, web APIs, and web computing.

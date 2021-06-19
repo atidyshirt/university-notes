@@ -4,8 +4,6 @@ permalink: /seng301
 date: "2021-05-20"
 ---
 
-\newpage
-
 # Course Information
 
 The Software Engineering (Part II) builds on the material introduced in SENG201 (Introduction to Software Engineering) and is intended as a companion course to SENG302 (Software Engineering Group Project).
